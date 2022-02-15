@@ -1,5 +1,5 @@
 processor_type: "simulation" # Possible values are: simulation, simulation_debug, cdaq_to_cdaq, and cdaq_to_nidaq
-model_dir: "training_data.pt"
+model_dir: "C:/Users/CasGr/Documents/Data/training_data_quick.pt"
 input_indices: # It specifies the indices of the activation data array that will be considered as inputs
   - 0
   - 6
